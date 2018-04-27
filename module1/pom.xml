@@ -11,7 +11,7 @@
 
   <artifactId>module1</artifactId>
 
-
+  <packaging>pom</pakcaging>
   <dependencies>
     <dependency>
       <groupId>org.slf4j</groupId>
