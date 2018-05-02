@@ -1,3 +1,4 @@
 .idea
 modulexmlsupporttest.iml
 target/
+*.iml
