@@ -12,4 +12,14 @@
     <module>module1</module>
     <module>module2</module>
   </modules>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>cloud.localstack</groupId>
+        <artifactId>localstack-utils</artifactId>
+        <version>0.1.10</version>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
 </project>
