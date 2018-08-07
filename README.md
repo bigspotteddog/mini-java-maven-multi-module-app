@@ -1,3 +1,3 @@
-![source-defender](https://s3-us-west-2.amazonaws.com/source-defender-shared-resources-badges-us-west-2/bigspotteddog/mini-java-maven-multi-module-app/source-defender.svg)
+[![DepShield Badge](https://depshield.sonatype.org/badges/bigspotteddog/mini-java-maven-multi-module-app/depshield.svg)](https://depshield.github.io)
 
 # mini-java-maven-multi-module-app
