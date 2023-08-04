@@ -20,6 +20,7 @@
     <module>module2</module>
   </modules>
 
+         <dependencyManagement>
          <dependencies>
                   <dependency>
     <artifactId>module1</artifactId>
@@ -33,6 +34,7 @@
                   </dependency>
                   
          </dependencies>
+         </dependencyManagement>
   <build>
     <plugins>
       <plugin>
